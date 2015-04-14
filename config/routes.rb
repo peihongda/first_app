@@ -7,6 +7,8 @@ Rails.application.routes.draw do
   get 'static_pages/help'
 
   root to: 'static_pages#home'
+  
+  match '/signup', to: 'users#new', via: [:get]
 
   match '/help' => 'static_pages#help', via: [:get]
   match '/about' => 'static_pages#about', via: [:get]
