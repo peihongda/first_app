@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
   
-  resources :high_scores
   get 'users/new'
 
   get 'static_pages/home'
