@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 gem 'rails'
 gem 'bootstrap-sass', '2.0.4'
+gem 'bcrypt-ruby', '3.1.1'
 
 group :development, :test do
 	gem 'sqlite3'
@@ -19,6 +20,7 @@ end
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
+
 
 group :test do
 	gem 'capybara', '1.1.2'
