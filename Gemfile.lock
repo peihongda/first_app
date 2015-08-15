@@ -186,7 +186,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   pg (= 0.12.2)
-  rails
+  rails (= 4.2.1)
   rspec-rails (= 2.11.0)
   sass-rails (~> 4.0.3)
   sqlite3
