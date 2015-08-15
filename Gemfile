@@ -6,6 +6,7 @@ gem 'bootstrap-sass', '2.0.4'
 gem 'bcrypt-ruby', '3.1.1'
 gem 'gravatar'
 gem 'gravatar_image_tag'
+gem 'puma'
 
 group :development, :test do
 	gem 'sqlite3'
