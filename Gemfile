@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 
-gem 'rails'
+gem 'rails', '4.2.1'
 gem 'bootstrap-sass', '2.0.4'
 gem 'bcrypt-ruby', '3.1.1'
 gem 'gravatar'
