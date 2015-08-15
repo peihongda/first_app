@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'ruby', 'ruby 2.1.5p273'
+ruby 'ruby 2.1.5p273'
 gem 'rails', '4.2.1'
 gem 'bootstrap-sass', '2.0.4'
 gem 'bcrypt-ruby', '3.1.1'
